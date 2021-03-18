@@ -4,4 +4,4 @@ Vscodeban írtam
 hozzáadok még egy sort
 írom tovább
 ezt már gitthubon írtam
-VS code konfliktus
+VS code konfliktus 
