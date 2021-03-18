@@ -3,3 +3,4 @@ kapcsolat próba
 Vscodeban írtam
 hozzáadok még egy sort
 írom tovább
+ezt már gitthubon írtam
